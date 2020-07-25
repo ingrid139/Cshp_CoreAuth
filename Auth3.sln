@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityAuth", "IdentityAuth\IdentityAuth.csproj", "{2E135D8A-5C96-4BEF-A396-E3E91BF00ED9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E135D8A-5C96-4BEF-A396-E3E91BF00ED9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E135D8A-5C96-4BEF-A396-E3E91BF00ED9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E135D8A-5C96-4BEF-A396-E3E91BF00ED9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E135D8A-5C96-4BEF-A396-E3E91BF00ED9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9115555-1C6B-43F0-A5FE-1FCF0AC24261}
+	EndGlobalSection
+EndGlobal
