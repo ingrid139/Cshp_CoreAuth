@@ -3,16 +3,16 @@ using System.IdentityModel.Tokens.Jwt;
 using System.Linq;
 using System.Security.Claims;
 using System.Threading.Tasks;
-using IdentityAuth.ConfigStartup;
-using IdentityAuth.DTO;
-using IdentityAuth.Models;
+using CoreAuth.ConfigStartup;
+using CoreAuth.DTO;
+using CoreAuth.Models;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Options;
 using Microsoft.IdentityModel.Tokens;
 
-namespace IdentityAuth.Controllers
+namespace CoreAuth.Controllers
 {
     [ApiVersion("1.0")]
     [Route("api/v{version:apiVersion}/[controller]")]
